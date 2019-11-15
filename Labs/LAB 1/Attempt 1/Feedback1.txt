@@ -1,0 +1,26 @@
+Q3_ArrayInsertionDemo.java is not present in this submission: 0 points
+
+Q2 point awarded as long as file present: 1.0 points
+
+
+Grade for Q3_SquareArray (out of possible 1.0): 0.0
+
+
+Grade for Q3_AverageDemo (out of possible 1.0): 1.0
+
+
+Grade for Q3_ReverseSortDemo (out of possible 1.0): 1.0
+
+
+Grade for Q5 (out of possible 3.0): 1.5
+
+
+Grade for Q6 (out of possible 2.0): 0.75
+
+
+
+Total is 5.25 out of 10
+
+
+
+This was produced by a bot, please contact us with any issues.
