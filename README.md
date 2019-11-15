@@ -4,4 +4,4 @@ This repository contains the work including labs and assignments from Intro to C
 This course was taken in the winter 2019 term at uOttawa.
 
 All labs were writen by Mitchell Eisenberg
-Assignments were writen by Mitchell Eisenberg and Justin Proulx
+Assignments were written by Mitchell Eisenberg and Justin Proulx
